@@ -1,5 +1,5 @@
 ---
 title: "Steve-Test"
-date: YYYY-MM-DD
+date: 2023-03-20
 ---
 This is a test to create a blog page
